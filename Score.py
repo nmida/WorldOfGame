@@ -1,0 +1,5 @@
+DIFFICULTY = 3
+POINTS_OF_WINNING = (DIFFICULTY X 3) + 5
+
+def add_score():
+
