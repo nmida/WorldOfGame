@@ -1,0 +1,16 @@
+Requitments :
+
+maingame.py - From this phyton file you run the program.
+live.py - maingame.py use this file to load all the games.
+CurrencyRouletteGame.py -- GuessGame.py -- MemoryGame.py - Base code for each games.
+
+if you run the program from Pycharm :
+you need to install package - currency_converter :
+run from the terminal in pycharm - "pip3 install currency_converter" and after this pip3 install "CurrencyConverter"
+after you finish to install the packages you can run the python file - maingame.py
+
+if you run the program from cmd:"
+insatll the package - "pip install py-currency-converter" and "pip install currency-converter" and "pip install CurrencyConverter"
+after you finish to insatll the packages - you can run the program from phyton file - maingame.py
+
+
